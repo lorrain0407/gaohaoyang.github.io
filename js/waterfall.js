@@ -12,7 +12,7 @@
   /**
      * 内容JSON
      */
-  var demoContent = [
+  /*var demoContent = [
     {
       demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
       img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
@@ -132,6 +132,17 @@
       title: '仿知乎页面',
       core_tech: 'HTML BootStrap',
       description: '使用BootStrap仿照知乎做了一个静态页面。'
+    }
+  ];*/
+
+  var demoContent = [
+    {
+      demo_link: 'https://github.com/lorrain0407/Mesh-Saliency',
+      img_link: 'https://i.loli.net/2018/04/02/5ac2349629316.png',
+      code_link: 'https://github.com/lorrain0407/Mesh-Saliency',
+      title: '网格显著性 Mesh Saliency',
+      core_tech: 'Matlab',
+      description: '实现论文Mesh saliency，计算网格显著性，最显著的视点以及最不显著的视点。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/02/mesh-saliency-project-introduction/">这里</a>。'
     }
   ];
 
