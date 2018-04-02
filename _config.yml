@@ -9,7 +9,7 @@
 title: Lorrain
 brief-intro: Learn and live.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/lorrain0407/lorrain.github.io" # the base hostname & protocol for your site
+url: "https://github.com/lorrain0407/lorrain0407.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
