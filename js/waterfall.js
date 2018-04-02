@@ -20,27 +20,6 @@
       title: '网格显著性 Mesh Saliency',
       core_tech: 'Matlab',
       description: '实现论文Mesh saliency，计算网格显著性，最显著的视点以及最不显著的视点。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/02/mesh-saliency-project-introduction/">这里</a>。'
-    }, {
-      demo_link: 'https://github.com/lorrain0407/Mesh-Saliency',
-      img_link: 'https://i.loli.net/2018/04/02/5ac2349629316.png',
-      code_link: 'https://github.com/lorrain0407/Mesh-Saliency',
-      title: '网格显著性 Mesh Saliency',
-      core_tech: 'Matlab',
-      description: '实现论文Mesh saliency，计算网格显著性，最显著的视点以及最不显著的视点。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/02/mesh-saliency-project-introduction/">这里</a>。'
-    }, {
-      demo_link: 'https://github.com/lorrain0407/Mesh-Saliency',
-      img_link: 'https://i.loli.net/2018/04/02/5ac2349629316.png',
-      code_link: 'https://github.com/lorrain0407/Mesh-Saliency',
-      title: '网格显著性 Mesh Saliency',
-      core_tech: 'Matlab',
-      description: '实现论文Mesh saliency，计算网格显著性，最显著的视点以及最不显著的视点。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/02/mesh-saliency-project-introduction/">这里</a>。'
-    }, {
-      demo_link: 'https://github.com/lorrain0407/Mesh-Saliency',
-      img_link: 'https://i.loli.net/2018/04/02/5ac2349629316.png',
-      code_link: 'https://github.com/lorrain0407/Mesh-Saliency',
-      title: '网格显著性 Mesh Saliency',
-      core_tech: 'Matlab',
-      description: '实现论文Mesh saliency，计算网格显著性，最显著的视点以及最不显著的视点。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/02/mesh-saliency-project-introduction/">这里</a>。'
     }
   ];
 
