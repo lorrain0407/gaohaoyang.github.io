@@ -29,7 +29,7 @@ Secondly, run pipelineDemo.m
 
 Thirdly, run displayResults.m and then you can see the mesh saliency in special spherical coordinates.
 
-(Step 1-3 refered to [this page](http://research.dshin.org/code/saliency-for-3d-meshes.html)
+Step 1-3 refered to [this page](http://research.dshin.org/code/saliency-for-3d-meshes.html)
 
 Finally, run maxSaliencyArea.m, you can the most saliency area can be caculated and shown in yellow.
 
