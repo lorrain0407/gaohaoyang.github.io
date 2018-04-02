@@ -48,11 +48,11 @@ fork成功后进入settings进行设置修改仓库名为 你的Github账号名.
 
 接着修改博客配置：来到你的仓库，找到_config.yml文件，这是网站的全局配置文件，点击修改，然后编辑_config.yml的内容。
 
-这一步[参考](https://www.jianshu.com/p/e68fba58f75c#Rename)中对_config.yml的介绍，可以尝试评论系统和网站统计。
+这一步参考[这个](https://www.jianshu.com/p/e68fba58f75c#Rename)中对_config.yml的介绍，可以尝试评论系统和网站统计。
 
 修改完成后点击Commit changes 提交保存。
 
-再次进入你的主页，你的个人博客搭建就完成了。
+最后进入你的主页，你的个人博客搭建就完成了。
 
 
 ### 后续
