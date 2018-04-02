@@ -9,7 +9,7 @@
 title: Lorrain
 brief-intro: Learn and live.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lorrain.github.io" # the base hostname & protocol for your site
+url: "https://lorrain0407.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -29,7 +29,7 @@ description_footer: Welcome to my blog！
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: lorrain
+disqus_shortname: 
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
