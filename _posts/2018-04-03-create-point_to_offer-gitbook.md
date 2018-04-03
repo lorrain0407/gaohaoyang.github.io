@@ -68,6 +68,6 @@ $ gitbook serve
 
 我试了[gitbook编辑器](https://www.gitbook.com/editor)，感觉对git不友好，还是放弃了。建议大家直接写Markdown文档就OK。
 
-##后续 
+###后续 
 
-一心刷题，并总结。加油!
+一心刷题，并总结。加油！
