@@ -27,6 +27,13 @@
       title: '谷歌单元测试 Google C++ Test',
       core_tech: 'CMake',
       description: '谷歌单元测试。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/03/google-test/">这里</a>。'
+    },{
+      demo_link: 'https://github.com/lorrain0407/QR-Optimization',
+      img_link: 'https://i.loli.net/2018/04/06/5ac6cced360cd.png',
+      code_link: 'https://github.com/lorrain0407/QR-Optimization',
+      title: '二维码优化 QR Optimization',
+      core_tech: 'C++',
+      description: '二维码优化。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/06/qr-optimization/">这里</a>。'
     }
   ];
 
