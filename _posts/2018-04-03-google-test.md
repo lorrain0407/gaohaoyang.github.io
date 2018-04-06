@@ -9,8 +9,6 @@ tags: cmake google_test
 * content
 {:toc}
 
-# example-google-test
-
 Example-google-test is a simaple project aimd to help to quick build a google unit test project. It is managed by Cmake and can be easy used in windows platform. Thanks for [Crascit](https://github.com/Crascit/DownloadProject) repo, we can download and configure google-test easily.
 
 ## Add your project
