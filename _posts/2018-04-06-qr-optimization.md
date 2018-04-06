@@ -9,8 +9,6 @@ tags: C++ QR_Code
 * content
 {:toc}
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 A project about QR Optimization for easily generating a 3D QR Code later.
 
 ## Our Goal
@@ -43,17 +41,17 @@ From within the `build` directory just issue:
 ## Algorithm
 
 ```
-1 Find all connected black non-functional components $$CC$$
-2 Calculate the visibilit \\(V_{CC_i}$$\\) of each $$CC_i\inCC$$ and push them into $$PQ$$ in an ascending order;
-3 While ($$PQ$$ not empty) {
-	1.Popup $$CC$$ from $$PQ$$;
-	2.If $$CC$$ can be dispersed, 
+1 Find all connected black non-functional components $CC$
+2 Calculate the visibilit $V_{CC_i}$ of each $CC_i\inCC$ and push them into $PQ$ in an ascending order;
+3 While ($PQ$ not empty) {
+	1.Popup $CC$ from $PQ$;
+	2.If $CC$ can be dispersed, 
 		  flip one module;
 		  Continue;
 	  Else
 		  goto step3.1;
 	4 Find all connected black non-functional components $$CC$$
-	5 Calculate the visibility $$V_{CC_I}$$ of each $$CC_i\inCC$$ and push them into $$PQ$$;
+	5 Calculate the visibility $V_{CC_I}$ of each $CC_i\inCC$ and push them into $PQ$;
   }
 4 Return the current QR
 
