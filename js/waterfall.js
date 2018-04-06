@@ -34,6 +34,13 @@
       title: '二维码优化 QR Optimization',
       core_tech: 'C++',
       description: '二维码优化。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/06/qr-optimization/">这里</a>。'
+    },{
+      demo_link: 'https://github.com/lorrain0407/3dqrcode_libigl',
+      img_link: 'https://i.loli.net/2018/04/06/5ac6dddbd12fb.png',
+      code_link: 'https://github.com/lorrain0407/3dqrcode_libigl',
+      title: '立体二维码生成 3D QR Codes',
+      core_tech: 'C++',
+      description: '立体二维码生成。算法详情见 <a href ="https://lorrain0407.github.io/2018/04/06/3d-qr-codes/">这里</a>。'
     }
   ];
 

@@ -61,4 +61,4 @@ You should clearly understand the coding ruls of QR Code first, otherwise, you c
 
 ## Results
 
-You can see some results in 'results' directory.  
+You can see some results in `results` directory.  
