@@ -40,7 +40,6 @@ From within the `build` directory just issue:
 
 ## Algorithm
 
-```
 1 Find all connected black non-functional components $CC$
 2 Calculate the visibilit $V_{CC_i}$ of each $CC_i\inCC$ and push them into $PQ$ in an ascending order;
 3 While ($PQ$ not empty) {
@@ -54,8 +53,6 @@ From within the `build` directory just issue:
 	5 Calculate the visibility $V_{CC_I}$ of each $CC_i\inCC$ and push them into $PQ$;
   }
 4 Return the current QR
-
-```
 
 You should clearly understand the coding ruls of QR Code first, otherwise, you can not know which $$CC$$ can be dispersed.
 
