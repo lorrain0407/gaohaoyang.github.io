@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Test"
 date:   2018-04-03 22:51:36
-categories: Google Test
+categories: Google_Test
 tags: cmake google_test
 ---
 
