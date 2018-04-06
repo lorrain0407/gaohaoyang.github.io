@@ -49,7 +49,7 @@ From within the `build` directory just issue:
 		  flip one module;
 		  Continue;
 	  Else
-		  goto step3.1;
+		  goto step 3.1;
 	4 Find all connected black non-functional components CC
 	5 Calculate the visibility of each CC and push them into PQ;
   }
@@ -61,4 +61,4 @@ You should clearly understand the coding ruls of QR Code first, otherwise, you c
 
 ## Results
 
-You can see some results in results directory.  
+You can see some results in 'results' directory.  
