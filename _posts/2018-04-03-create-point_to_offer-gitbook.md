@@ -11,7 +11,7 @@ tags: gitbook point_to_offer
 
 试图回想一周前刷的题，好像有些忘了。一个个在网站上找出来回忆需要点击很多次，可谓非常麻烦。之前是有一些笔记的，但总觉得不够系统不够清晰，发现gitbook这样好用的东西，就想试试。
 
-效果：[ https://liulin1.gitbooks.io/gitbook-point_to_offer-solutions/content/]( https://liulin1.gitbooks.io/gitbook-point_to_offer-solutions/content/)
+效果：[ https://lorrain.gitbooks.io/gitbook-point_to_offer-solutions/content/]( https://lorrain.gitbooks.io/gitbook-point_to_offer-solutions/content/)
 
 Github：[https://github.com/lorrain0407/gitbook-point_to_offer-solutions](https://github.com/lorrain0407/gitbook-point_to_offer-solutions)
 
