@@ -87,7 +87,7 @@ type: page
 
 ## 我喜欢的一些大佬主页
 
-* [折纸大牛RobertJ.Lang Origami](https://inded.xyz/Jekyll_modern-blog/)
+* [折纸大牛RobertJ.Lang Origami](http://www.langorigami.com/artworks)
 
 ## Comments
 
