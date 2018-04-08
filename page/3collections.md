@@ -75,15 +75,19 @@ type: page
 
 ## Jekyll模板搭建的博客
 
-* [1](https://jarrekk.github.io/Jalpc/)
+* [Jalpc](https://jarrekk.github.io/Jalpc/)
 
-* [2](http://mazhuang.org/)
+* [mazhuang](http://mazhuang.org/)
 
-* [3](http://kongsong.me/)
+* [kongsong](http://kongsong.me/)
 
-* [4](https://phlow.github.io/feeling-responsive/)
+* [feeling-responsive](https://phlow.github.io/feeling-responsive/)
 
-* [5](https://inded.xyz/Jekyll_modern-blog/)
+* [Jekyll-modern](https://inded.xyz/Jekyll_modern-blog/)
+
+## 我喜欢的一些大佬主页
+
+* [折纸大牛RobertJ.Lang Origami](https://inded.xyz/Jekyll_modern-blog/)
 
 ## Comments
 
