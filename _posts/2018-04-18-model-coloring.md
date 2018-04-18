@@ -14,15 +14,11 @@ tags: 3D_Printing Model_Coloring
 ### 工具和效果展示
 
 挑了一些我能用得到的工具，如下图：
-<div align=center>
 ![](https://i.loli.net/2018/04/18/5ad6ca9fdc73c.jpg)
-</div>
 可以说我用到的工具非常简陋，有一种补充一批材料一批工具的冲动，搞点大事情！
 
 最后的效果图，感觉还行吧，现有工具情况下，我已经尽力!
-<div align=center>
 ![](https://i.loli.net/2018/04/18/5ad6cbb7ed47c.jpg)
-</div>
 
 ### 3D打印模型后处理操作调研
 
