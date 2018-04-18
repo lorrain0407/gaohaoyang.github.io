@@ -53,7 +53,7 @@ tags: 3D_Printing Model_Coloring
 
  - Youtube的视频链接：[https://www.youtube.com/watch?v=YlUhPrAqiY0](https://www.youtube.com/watch?v=YlUhPrAqiY0)
 
- - 论文链接：[http://delivery.acm.org/10.1145/2770000/2766932/a131-zhang.pdf?ip=223.80.110.111&id=2766932&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1524028641_518be839a7dc22a8999d75c010c43395](http://delivery.acm.org/10.1145/2770000/2766932/a131-zhang.pdf?ip=223.80.110.111&id=2766932&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1524028641_518be839a7dc22a8999d75c010c43395)
+ - 论文链接：[https://dl.acm.org/citation.cfm?id=2766932](https://dl.acm.org/citation.cfm?id=2766932)
 
  - 已经申请国际专利：[https://patents.google.com/patent/US9919549B2/en](https://patents.google.com/patent/US9919549B2/en)
 
